@@ -23,7 +23,7 @@ The folder `scr` contains Python modules organized by functionality:
   - visualization.py  
   - model.py  
   - prediction.py
---
+
 
 ## Requirements
 See `requirements.txt` for Python packages.
