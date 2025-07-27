@@ -5,10 +5,4 @@ __pycache__/
 # Notebook checkpoints
 .ipynb_checkpoints/
 
-# File di output
-output/
-*.csv
 
-# Ambienti virtuali
-venv/
-.env
